@@ -123,7 +123,6 @@ stack-data==0.6.2
 streamlit==1.21.0
 streamlit-lottie==0.0.3
 streamlit-option-menu==0.3.2
-systemd-python==234
 tenacity==8.2.2
 tensorboard==2.12.1
 tensorboard-data-server==0.7.0
