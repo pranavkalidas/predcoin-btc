@@ -31,7 +31,6 @@ google-auth==2.17.3
 google-auth-oauthlib==1.0.0
 google-pasta==0.2.0
 grpcio==1.53.0
-gyp==0.1
 h5py==3.8.0
 html5lib==1.1
 httplib2==0.20.2
