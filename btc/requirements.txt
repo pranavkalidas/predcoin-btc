@@ -124,7 +124,7 @@ streamlit==1.21.0
 streamlit-lottie==0.0.3
 streamlit-option-menu==0.3.2
 tenacity==8.2.2
-tensorboard==2.12.1
+tensorboard==2.11.2
 tensorboard-data-server==0.7.0
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.12.0
