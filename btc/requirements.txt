@@ -117,7 +117,7 @@ seaborn==0.12.2
 SecretStorage==3.3.1
 six==1.16.0
 smmap==5.0.0
-snscrape==0.6.2.20230320
+snscrape==0.3.4
 soupsieve==2.4
 stack-data==0.6.2
 streamlit==1.21.0
